@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1491330415 source:c:\users\sándor\documents\programozas\beadando\beadando1_ver2\egyeb.cpp
+	"egyeb.h"
+
+1491003155 c:\users\sándor\documents\programozas\beadando\beadando1_ver2\egyeb.h
+	<iostream>
+	<string>
+
+1491392161 source:c:\users\sándor\documents\programozas\beadando\beadando1_ver2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"tetelek.h"
+	"matrixmuveletek.h"
+	"egyeb.h"
+	"feldolgozas.h"
+
+1491010068 c:\users\sándor\documents\programozas\beadando\beadando1_ver2\tetelek.h
+	<vector>
+
+1491387468 c:\users\sándor\documents\programozas\beadando\beadando1_ver2\matrixmuveletek.h
+	<vector>
+
+1491345013 source:c:\users\sándor\documents\programozas\beadando\beadando1_ver2\tetelek.cpp
+	"tetelek.h"
+
+1491389934 source:c:\users\sándor\documents\programozas\beadando\beadando1_ver2\matrixmuveletek.cpp
+	"matrixmuveletek.h"
+	"egyeb.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1491330667 c:\users\sándor\documents\programozas\beadando\beadando1_ver2\feldolgozas.h
+	<vector>
+	"tetelek.h"
+	"matrixmuveletek.h"
+	"egyeb.h"
+
+1491385305 source:c:\users\sándor\documents\programozas\beadando\beadando1_ver2\feldolgozas.cpp
+	"feldolgozas.h"
+
+1491330415 source:c:\users\sándor\documents\programozas\beadando\beadando1_ver3\1beadando\egyeb.cpp
+	"egyeb.h"
+
+1491003155 c:\users\sándor\documents\programozas\beadando\beadando1_ver3\1beadando\egyeb.h
+	<iostream>
+	<string>
+
+1491991463 source:c:\users\sándor\documents\programozas\beadando\beadando1_ver3\1beadando\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"tetelek.h"
+	"matrixmuveletek.h"
+	"egyeb.h"
+	"feldolgozas.h"
+
+1491827432 c:\users\sándor\documents\programozas\beadando\beadando1_ver3\1beadando\tetelek.h
+	<iostream>
+	<string>
+	<vector>
+	"tetelek.h"
+	"matrixmuveletek.h"
+	"egyeb.h"
+	"feldolgozas.h"
+
+1491874494 c:\users\sándor\documents\programozas\beadando\beadando1_ver3\1beadando\matrixmuveletek.h
+	<vector>
+	<string>
+
+1491778297 c:\users\sándor\documents\programozas\beadando\beadando1_ver3\1beadando\feldolgozas.h
+	<vector>
+	"tetelek.h"
+	"matrixmuveletek.h"
+	"egyeb.h"
+
+1491875303 source:c:\users\sándor\documents\programozas\beadando\beadando1_ver3\1beadando\matrixmuveletek.cpp
+	"matrixmuveletek.h"
+	"egyeb.h"
+	<vector>
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	<iomanip>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1491827559 source:c:\users\sándor\documents\programozas\beadando\beadando1_ver3\1beadando\tetelek.cpp
+	"tetelek.h"
+
+1491827354 source:c:\users\sándor\documents\programozas\beadando\beadando1_ver3\1beadando\feldolgozas.cpp
+	"feldolgozas.h"
+
+1491330415 source:c:\users\sándor\documents\programozas\beadando\beadando1_ver3\javitott\1beadando\egyeb.cpp
+	"egyeb.h"
+
+1491003155 c:\users\sándor\documents\programozas\beadando\beadando1_ver3\javitott\1beadando\egyeb.h
+	<iostream>
+	<string>
+
+1491827354 source:c:\users\sándor\documents\programozas\beadando\beadando1_ver3\javitott\1beadando\feldolgozas.cpp
+	"feldolgozas.h"
+
+1491778297 c:\users\sándor\documents\programozas\beadando\beadando1_ver3\javitott\1beadando\feldolgozas.h
+	<vector>
+	"tetelek.h"
+	"matrixmuveletek.h"
+	"egyeb.h"
+
+1491827432 c:\users\sándor\documents\programozas\beadando\beadando1_ver3\javitott\1beadando\tetelek.h
+	<iostream>
+	<string>
+	<vector>
+	"tetelek.h"
+	"matrixmuveletek.h"
+	"egyeb.h"
+	"feldolgozas.h"
+
+1491874494 c:\users\sándor\documents\programozas\beadando\beadando1_ver3\javitott\1beadando\matrixmuveletek.h
+	<vector>
+	<string>
+
+1491991463 source:c:\users\sándor\documents\programozas\beadando\beadando1_ver3\javitott\1beadando\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"tetelek.h"
+	"matrixmuveletek.h"
+	"egyeb.h"
+	"feldolgozas.h"
+
+1491875303 source:c:\users\sándor\documents\programozas\beadando\beadando1_ver3\javitott\1beadando\matrixmuveletek.cpp
+	"matrixmuveletek.h"
+	"egyeb.h"
+	<vector>
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	<iomanip>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1496442521 source:c:\users\sándor\documents\programozas\beadando\beadando1_ver3\javitott\1beadando\tetelek.cpp
+	"tetelek.h"
+
