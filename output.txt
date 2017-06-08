@@ -1,0 +1,82 @@
+
+file name: 0.txt
+
+ A file tartalma: 
+1 1 1 1 
+
+file name: 1.txt
+
+ A file tartalma: 
+1 1 1 1 
+2 -1 -1 0 
+-1 -1 -1 -1 
+1 1 1 1 
+-1 -1 -1 -1 
+
+file name: 2.txt
+
+ A file tartalma: 
+-1 -1 -1 -1 
+0 -1 -1 0 
+1 1 1 -1 
+-1 0 1 1 
+
+file name: 3.txt
+
+ A file tartalma: 
+1 
+
+file name: 5.txt
+
+ A file tartalma: 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+
+file name: 6.txt
+
+ A file tartalma: 
+-1 -1 -1 
+-1 -1 -1 
+-1 -1 -1 
+
+file name: 7.txt
+
+ A file tartalma: 
+-1 -1 -1 
+-1 -1 -1 
+-1 -1 -1 
+
+file name: 8.txt
+
+ A file tartalma: 
+55 55 55 55 55 
+11 11 11 11 11 
+22 22 22 22 22 
+
+file name: 9.txt
+
+ A file tartalma: 
+1 1 -1 -1 -1 
+-1 -1 -1 -1 -1 
+2 2 2 2 2 
+-1 2 2 2 2 
+
+file name: 10.txt
+
+ A file tartalma: 
+-4 4 4 4 4 4 
+1 -1 1 1 1 1 
+5 5 5 5 5 5 5 
+
+file name: 11.txt
+
+ A file tartalma: 
+-4 4 4 4 4 4 
+5 5 5 5 5 5 5 
+1 -1 1 1 1 1 
+===============================================================================
+All tests passed (11 assertions in 11 test cases)
+
